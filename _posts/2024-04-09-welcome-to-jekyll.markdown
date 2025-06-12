@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Howeland's Home!"
 date:   2024-04-09 21:46:06 -0400
 categories: jekyll update
 ---
